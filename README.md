@@ -101,6 +101,10 @@
 
 ---
 
+## 🏆 GitHub Achievements <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Oussama-Belfassi&theme=darkhub&no-frame=true&row=1&column=6" /> </p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table align="center">
@@ -177,8 +181,3 @@
   <br/><br/>
   <i>⭐ Feel free to explore my repos and leave a star if you find something useful!</i>
 </div>
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oussama-Belfassi&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
